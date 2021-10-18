@@ -51,6 +51,23 @@ re-issues and general madness, sometimes the release years are not what you'd ex
 ![](https://github.com/mattleesounds/spotify_top_songs/blob/main/genres2010-2014.png)
 ![](https://github.com/mattleesounds/spotify_top_songs/blob/main/genres2015-2019.png)
 
+# Genre Analysis 
+* Although pop dominated throughout the decade, some of its market share was replaced by other genres as the decade progressed.
+* Both electronic and R&B gained significantly in popularity. 
+* Latin music gained a fair amount of listeners.
+
+# Key Insights Overall
+* The decline in average tempo is likely in part due to the rise in popularity of R&B, which uses slow tempos. 
+* One weird pattern is that although the use of live instruments(acousticness) has gone up on average, the popularity of electronic music has risen significantly. 
+* Listeners seemed to have an increasing appetite for music that is more laid back and more danceable. In other words, people increasingly wanted to “just vibe.”
+* Traditional pop music may continue to decline in popularity, as tastes become more worldly and more chill. 
+
+# Further Research and Limitations
+* Ultimately, most of the measurements used in this analysis are subjective. The attribute scores were given by an algorithm that is, of course, imperfect. Genre discernment can also be quite controversial. 
+* It would be interesting to see how this compares to an analysis of the Billboard top songs of the decade. 
+* More analysis could be done on the pop genre by looking at how the distribution of subgenres changed over time. 
+
+
 
 
 
