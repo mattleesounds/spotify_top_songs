@@ -44,6 +44,11 @@ re-issues and general madness, sometimes the release years are not what you'd ex
 
 ![](https://github.com/mattleesounds/spotify_top_songs/blob/main/avg_tempo.png)
 
+# Attribute Analysis
+* The most significant change among the attributes across the decade was a 20 point increase in popularity. This is mostly a result of Spotify becoming a more popular platform during this time period. 
+* There seems to be a paradoxical trend across the decade where music became slower, less happy, and less energetic, while simultaneously becoming more danceable
+
+
 
 
 
