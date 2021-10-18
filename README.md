@@ -38,7 +38,7 @@ re-issues and general madness, sometimes the release years are not what you'd ex
 * Popularity - The higher the value the more popular the song is.
 * Duration - The length of the song.
 
-!Attributes.png
+![](https://github.com/mattleesounds/spotify_top_songs/blob/main/Attributes.png)
 
 
 
