@@ -40,6 +40,8 @@ re-issues and general madness, sometimes the release years are not what you'd ex
 
 ![](https://github.com/mattleesounds/spotify_top_songs/blob/main/Attributes.png)
 
+![](https://github.com/mattleesounds/spotify_top_songs/blob/main/attributes_avg_change.png)
+
 
 
 
